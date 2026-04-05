@@ -1,0 +1,17 @@
+.env
+# Frontend environment config — contains Supabase credentials, DO NOT commit
+frontend/env.js
+backend/frontend/env.js
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.toast
+.lucid
+.DS_Store
